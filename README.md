@@ -1,2 +1,2 @@
 # .githubbot
-review-pad
+https://unacms.com/u/full-circle/review-pad
